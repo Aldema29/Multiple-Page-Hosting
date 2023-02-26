@@ -11,7 +11,7 @@ body {
 }
 
 .croissant-photo {
-    max-width: 100%;
+    max-width: 80%;
     border-radius: 8px;
     display: block;
     margin: 30px auto;
